@@ -1,6 +1,6 @@
 # Snake-and-Ladder
 
-#Images:
+##  Images:
 
 ![](https://i.imgur.com/UXW5XLN.png)
 ![](https://i.imgur.com/eyNCuVU.png)
